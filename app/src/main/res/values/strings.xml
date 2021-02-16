@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animales_EduardoArriet</string>
+    <string name="anim">¿ANIMALES CON...?</string>
+    <string name="nom">Nombre</string>
+    <string name="npat">Número de patas</string>
+    <string name="tani">Tipo de animal</string>
+    <string name="desc">Descripción</string>
+</resources>
